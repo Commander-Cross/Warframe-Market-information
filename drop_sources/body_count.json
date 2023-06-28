@@ -1,1 +1,46 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "56a7b2531133f656cb085d86", "location": "62d2eb3a75156700663c835c", "mission": "62d2f053751567007abb195a", "rate": 13.16, "rarity": "uncommon", "rotation": "c", "stage": ["1"], "id": "62d35258650ea601a7ad1e28"}, {"type": "mission", "item": "56a7b2531133f656cb085d86", "location": "62d2eb3a75156700663c835c", "mission": "62d2f053751567007abb195a", "rate": 5.68, "rarity": "rare", "rotation": "c", "stage": ["4"], "id": "633e2e92f570d1079c2e38df"}, {"type": "mission", "item": "56a7b2531133f656cb085d86", "location": "62d2eb3a75156700663c835c", "mission": "62d2f053751567007abb195a", "rate": 7.35, "rarity": "rare", "rotation": "c", "stage": ["2", "3"], "id": "644b04eb7ec19000567fa607"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "56a7b2531133f656cb085d86",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f053751567007abb195a",
+                "rate": 13.16,
+                "rarity": "uncommon",
+                "rotation": "c",
+                "stage": [
+                    "1"
+                ],
+                "id": "62d35258650ea601a7ad1e28"
+            },
+            {
+                "type": "mission",
+                "item": "56a7b2531133f656cb085d86",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f053751567007abb195a",
+                "rate": 5.68,
+                "rarity": "rare",
+                "rotation": "c",
+                "stage": [
+                    "4"
+                ],
+                "id": "633e2e92f570d1079c2e38df"
+            },
+            {
+                "type": "mission",
+                "item": "56a7b2531133f656cb085d86",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f053751567007abb195a",
+                "rate": 7.35,
+                "rarity": "rare",
+                "rotation": "c",
+                "stage": [
+                    "2",
+                    "3"
+                ],
+                "id": "644b04eb7ec19000567fa607"
+            }
+        ]
+    }
+}

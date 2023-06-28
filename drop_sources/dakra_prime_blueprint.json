@@ -1,1 +1,45 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "54a73e65e779893a797fff3e", "relic": "6054dd125221e30057500f1c", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a7515670098198363"}, {"type": "relic", "item": "54a73e65e779893a797fff3e", "relic": "6054dded5221e30057500fed", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a7515670098198364"}, {"type": "relic", "item": "54a73e65e779893a797fff3e", "relic": "6054de4f5221e30057501058", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a7515670098198365"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff3e",
+                "relic": "6054dd125221e30057500f1c",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a7515670098198363"
+            },
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff3e",
+                "relic": "6054dded5221e30057500fed",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a7515670098198364"
+            },
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff3e",
+                "relic": "6054de4f5221e30057501058",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a7515670098198365"
+            }
+        ]
+    }
+}

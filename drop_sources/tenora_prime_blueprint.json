@@ -1,1 +1,84 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "6036214f0a372600fd5614d0", "relic": "6054dd945221e30057500f8c", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23d75156700981989c5"}, {"type": "relic", "item": "6036214f0a372600fd5614d0", "relic": "60ad4a1bf1904300d012c6f6", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23d75156700981989c6"}, {"type": "relic", "item": "6036214f0a372600fd5614d0", "relic": "6139101930dd5b004b7f90a0", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23d75156700981989c7"}, {"type": "relic", "item": "6036214f0a372600fd5614d0", "relic": "61bb64fb3132ff00482b5fb5", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23d75156700981989c8"}, {"type": "relic", "item": "6036214f0a372600fd5614d0", "relic": "6242037766a58f0108c3d491", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23d75156700981989c9"}, {"type": "relic", "item": "6036214f0a372600fd5614d0", "relic": "62d3493f75156700ce450de8", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d3525a650ea601a7ad1fd5"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "6036214f0a372600fd5614d0",
+                "relic": "6054dd945221e30057500f8c",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23d75156700981989c5"
+            },
+            {
+                "type": "relic",
+                "item": "6036214f0a372600fd5614d0",
+                "relic": "60ad4a1bf1904300d012c6f6",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23d75156700981989c6"
+            },
+            {
+                "type": "relic",
+                "item": "6036214f0a372600fd5614d0",
+                "relic": "6139101930dd5b004b7f90a0",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23d75156700981989c7"
+            },
+            {
+                "type": "relic",
+                "item": "6036214f0a372600fd5614d0",
+                "relic": "61bb64fb3132ff00482b5fb5",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23d75156700981989c8"
+            },
+            {
+                "type": "relic",
+                "item": "6036214f0a372600fd5614d0",
+                "relic": "6242037766a58f0108c3d491",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23d75156700981989c9"
+            },
+            {
+                "type": "relic",
+                "item": "6036214f0a372600fd5614d0",
+                "relic": "62d3493f75156700ce450de8",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d3525a650ea601a7ad1fd5"
+            }
+        ]
+    }
+}

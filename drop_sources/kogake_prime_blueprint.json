@@ -1,1 +1,84 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "5a311f84c2c9e90dfff475e5", "relic": "6054dd165221e30057500f1f", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a75156700981983dd"}, {"type": "relic", "item": "5a311f84c2c9e90dfff475e5", "relic": "6054dd3b5221e30057500f40", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a75156700981983de"}, {"type": "relic", "item": "5a311f84c2c9e90dfff475e5", "relic": "6054dd3c5221e30057500f41", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a75156700981983df"}, {"type": "relic", "item": "5a311f84c2c9e90dfff475e5", "relic": "6054dd6d5221e30057500f66", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a75156700981983e0"}, {"type": "relic", "item": "5a311f84c2c9e90dfff475e5", "relic": "6054ddc65221e30057500fc0", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a75156700981983e1"}, {"type": "relic", "item": "5a311f84c2c9e90dfff475e5", "relic": "6054de065221e30057501008", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23a75156700981983e2"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "5a311f84c2c9e90dfff475e5",
+                "relic": "6054dd165221e30057500f1f",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a75156700981983dd"
+            },
+            {
+                "type": "relic",
+                "item": "5a311f84c2c9e90dfff475e5",
+                "relic": "6054dd3b5221e30057500f40",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a75156700981983de"
+            },
+            {
+                "type": "relic",
+                "item": "5a311f84c2c9e90dfff475e5",
+                "relic": "6054dd3c5221e30057500f41",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a75156700981983df"
+            },
+            {
+                "type": "relic",
+                "item": "5a311f84c2c9e90dfff475e5",
+                "relic": "6054dd6d5221e30057500f66",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a75156700981983e0"
+            },
+            {
+                "type": "relic",
+                "item": "5a311f84c2c9e90dfff475e5",
+                "relic": "6054ddc65221e30057500fc0",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a75156700981983e1"
+            },
+            {
+                "type": "relic",
+                "item": "5a311f84c2c9e90dfff475e5",
+                "relic": "6054de065221e30057501008",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23a75156700981983e2"
+            }
+        ]
+    }
+}

@@ -1,1 +1,123 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054dd4e5221e30057500f4c", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987ce"}, {"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054dd6d5221e30057500f67", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987cf"}, {"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054dd705221e30057500f69", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987d0"}, {"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054dd7d5221e30057500f77", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987d1"}, {"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054dd925221e30057500f89", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987d2"}, {"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054ddaa5221e30057500fa4", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987d3"}, {"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054ddb35221e30057500faf", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987d4"}, {"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054ddce5221e30057500fc8", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987d5"}, {"type": "relic", "item": "58b57068eb26db5c3119210a", "relic": "6054de105221e30057501012", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c75156700981987d6"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054dd4e5221e30057500f4c",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987ce"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054dd6d5221e30057500f67",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987cf"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054dd705221e30057500f69",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987d0"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054dd7d5221e30057500f77",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987d1"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054dd925221e30057500f89",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987d2"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054ddaa5221e30057500fa4",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987d3"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054ddb35221e30057500faf",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987d4"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054ddce5221e30057500fc8",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987d5"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c3119210a",
+                "relic": "6054de105221e30057501012",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c75156700981987d6"
+            }
+        ]
+    }
+}

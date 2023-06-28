@@ -1,1 +1,45 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "54a73e65e779893a797fff3d", "relic": "6054dd445221e30057500f46", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c751567009819878c"}, {"type": "relic", "item": "54a73e65e779893a797fff3d", "relic": "6054dd7e5221e30057500f78", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c751567009819878d"}, {"type": "relic", "item": "54a73e65e779893a797fff3d", "relic": "6054ddb85221e30057500fb3", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c751567009819878e"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff3d",
+                "relic": "6054dd445221e30057500f46",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c751567009819878c"
+            },
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff3d",
+                "relic": "6054dd7e5221e30057500f78",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c751567009819878d"
+            },
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff3d",
+                "relic": "6054ddb85221e30057500fb3",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c751567009819878e"
+            }
+        ]
+    }
+}

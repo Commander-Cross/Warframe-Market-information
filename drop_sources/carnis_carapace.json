@@ -1,1 +1,142 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 2.5, "rarity": "rare", "rotation": "b", "stage": ["final"], "id": "62d35258650ea601a7ad1e6a"}, {"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 2.5, "rarity": "rare", "rotation": "c", "stage": ["final"], "id": "62d35258650ea601a7ad1e6d"}, {"type": "npc", "item": "5f498a279426ed00443bd0db", "npc": "62d2effc751567007abb16cb", "rate": 2.21, "rarity": "uncommon", "id": "62d35258650ea601a7ad1e6e"}, {"type": "npc", "item": "5f498a279426ed00443bd0db", "npc": "62d2effe751567007abb16db", "rate": 2.21, "rarity": "uncommon", "id": "62d35258650ea601a7ad1e6f"}, {"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 1.75, "rarity": "ultra_rare", "rotation": "a", "stage": ["4"], "id": "633e2e92f570d1079c2e3910"}, {"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 2.56, "rarity": "rare", "rotation": "a", "stage": ["final"], "id": "633e2e92f570d1079c2e3911"}, {"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 1.7, "rarity": "ultra_rare", "rotation": "b", "stage": ["4"], "id": "633e2e92f570d1079c2e3913"}, {"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 1.72, "rarity": "ultra_rare", "rotation": "c", "stage": ["4"], "id": "633e2e92f570d1079c2e3915"}, {"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 2.67, "rarity": "rare", "rotation": "a", "stage": ["2", "3"], "id": "644b04eb7ec19000567fa617"}, {"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 2.58, "rarity": "rare", "rotation": "b", "stage": ["2", "3"], "id": "644b04eb7ec19000567fa618"}, {"type": "mission", "item": "5f498a279426ed00443bd0db", "location": "62d2eb3a75156700663c835c", "mission": "62d2f064751567007abb1962", "rate": 2.63, "rarity": "rare", "rotation": "c", "stage": ["2", "3"], "id": "644b04eb7ec19000567fa619"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 2.5,
+                "rarity": "rare",
+                "rotation": "b",
+                "stage": [
+                    "final"
+                ],
+                "id": "62d35258650ea601a7ad1e6a"
+            },
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 2.5,
+                "rarity": "rare",
+                "rotation": "c",
+                "stage": [
+                    "final"
+                ],
+                "id": "62d35258650ea601a7ad1e6d"
+            },
+            {
+                "type": "npc",
+                "item": "5f498a279426ed00443bd0db",
+                "npc": "62d2effc751567007abb16cb",
+                "rate": 2.21,
+                "rarity": "uncommon",
+                "id": "62d35258650ea601a7ad1e6e"
+            },
+            {
+                "type": "npc",
+                "item": "5f498a279426ed00443bd0db",
+                "npc": "62d2effe751567007abb16db",
+                "rate": 2.21,
+                "rarity": "uncommon",
+                "id": "62d35258650ea601a7ad1e6f"
+            },
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 1.75,
+                "rarity": "ultra_rare",
+                "rotation": "a",
+                "stage": [
+                    "4"
+                ],
+                "id": "633e2e92f570d1079c2e3910"
+            },
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 2.56,
+                "rarity": "rare",
+                "rotation": "a",
+                "stage": [
+                    "final"
+                ],
+                "id": "633e2e92f570d1079c2e3911"
+            },
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 1.7,
+                "rarity": "ultra_rare",
+                "rotation": "b",
+                "stage": [
+                    "4"
+                ],
+                "id": "633e2e92f570d1079c2e3913"
+            },
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 1.72,
+                "rarity": "ultra_rare",
+                "rotation": "c",
+                "stage": [
+                    "4"
+                ],
+                "id": "633e2e92f570d1079c2e3915"
+            },
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 2.67,
+                "rarity": "rare",
+                "rotation": "a",
+                "stage": [
+                    "2",
+                    "3"
+                ],
+                "id": "644b04eb7ec19000567fa617"
+            },
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 2.58,
+                "rarity": "rare",
+                "rotation": "b",
+                "stage": [
+                    "2",
+                    "3"
+                ],
+                "id": "644b04eb7ec19000567fa618"
+            },
+            {
+                "type": "mission",
+                "item": "5f498a279426ed00443bd0db",
+                "location": "62d2eb3a75156700663c835c",
+                "mission": "62d2f064751567007abb1962",
+                "rate": 2.63,
+                "rarity": "rare",
+                "rotation": "c",
+                "stage": [
+                    "2",
+                    "3"
+                ],
+                "id": "644b04eb7ec19000567fa619"
+            }
+        ]
+    }
+}

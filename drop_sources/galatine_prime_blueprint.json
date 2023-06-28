@@ -1,1 +1,45 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "57bc9c99e506eb45ea25145d", "relic": "6054dd4f5221e30057500f4d", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c75156700981987d7"}, {"type": "relic", "item": "57bc9c99e506eb45ea25145d", "relic": "6054dd975221e30057500f90", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c75156700981987d8"}, {"type": "relic", "item": "57bc9c99e506eb45ea25145d", "relic": "6054ddff5221e30057501001", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c75156700981987d9"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "57bc9c99e506eb45ea25145d",
+                "relic": "6054dd4f5221e30057500f4d",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c75156700981987d7"
+            },
+            {
+                "type": "relic",
+                "item": "57bc9c99e506eb45ea25145d",
+                "relic": "6054dd975221e30057500f90",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c75156700981987d8"
+            },
+            {
+                "type": "relic",
+                "item": "57bc9c99e506eb45ea25145d",
+                "relic": "6054ddff5221e30057501001",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c75156700981987d9"
+            }
+        ]
+    }
+}

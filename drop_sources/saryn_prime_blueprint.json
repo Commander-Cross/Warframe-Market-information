@@ -1,1 +1,84 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "56c3bbd55d2f0202da32e93b", "relic": "6054dd795221e30057500f72", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c751567009819890b"}, {"type": "relic", "item": "56c3bbd55d2f0202da32e93b", "relic": "6054ddcd5221e30057500fc7", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c751567009819890c"}, {"type": "relic", "item": "56c3bbd55d2f0202da32e93b", "relic": "6054dddd5221e30057500fd9", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c751567009819890d"}, {"type": "relic", "item": "56c3bbd55d2f0202da32e93b", "relic": "6054de005221e30057501002", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c751567009819890e"}, {"type": "relic", "item": "56c3bbd55d2f0202da32e93b", "relic": "6054de235221e30057501027", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c751567009819890f"}, {"type": "relic", "item": "56c3bbd55d2f0202da32e93b", "relic": "6054de345221e3005750103d", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c7515670098198910"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "56c3bbd55d2f0202da32e93b",
+                "relic": "6054dd795221e30057500f72",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c751567009819890b"
+            },
+            {
+                "type": "relic",
+                "item": "56c3bbd55d2f0202da32e93b",
+                "relic": "6054ddcd5221e30057500fc7",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c751567009819890c"
+            },
+            {
+                "type": "relic",
+                "item": "56c3bbd55d2f0202da32e93b",
+                "relic": "6054dddd5221e30057500fd9",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c751567009819890d"
+            },
+            {
+                "type": "relic",
+                "item": "56c3bbd55d2f0202da32e93b",
+                "relic": "6054de005221e30057501002",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c751567009819890e"
+            },
+            {
+                "type": "relic",
+                "item": "56c3bbd55d2f0202da32e93b",
+                "relic": "6054de235221e30057501027",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c751567009819890f"
+            },
+            {
+                "type": "relic",
+                "item": "56c3bbd55d2f0202da32e93b",
+                "relic": "6054de345221e3005750103d",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c7515670098198910"
+            }
+        ]
+    }
+}

@@ -1,1 +1,46 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "5be5f5a03ffcc7038857f105", "npc": "62d2f00b751567007abb1746", "rate": 0.06, "rarity": "legendary", "id": "62d2f24175156700981995a0"}, {"type": "npc", "item": "5be5f5a03ffcc7038857f105", "npc": "62d2f00f751567007abb176b", "rate": 0.06, "rarity": "legendary", "id": "62d2f24175156700981995a1"}, {"type": "npc", "item": "5be5f5a03ffcc7038857f105", "npc": "62d2effd751567007abb16d7", "rate": 0.06, "rarity": "legendary", "id": "62d2f24175156700981995a2"}, {"type": "npc", "item": "5be5f5a03ffcc7038857f105", "npc": "62d2f03b751567007abb18cf", "rate": 0.06, "rarity": "legendary", "id": "62d2f24175156700981995a3"}, {"type": "npc", "item": "5be5f5a03ffcc7038857f105", "npc": "62d2f031751567007abb1877", "rate": 0.05, "rarity": "legendary", "id": "62d2f24175156700981995a4"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "5be5f5a03ffcc7038857f105",
+                "npc": "62d2f00b751567007abb1746",
+                "rate": 0.06,
+                "rarity": "legendary",
+                "id": "62d2f24175156700981995a0"
+            },
+            {
+                "type": "npc",
+                "item": "5be5f5a03ffcc7038857f105",
+                "npc": "62d2f00f751567007abb176b",
+                "rate": 0.06,
+                "rarity": "legendary",
+                "id": "62d2f24175156700981995a1"
+            },
+            {
+                "type": "npc",
+                "item": "5be5f5a03ffcc7038857f105",
+                "npc": "62d2effd751567007abb16d7",
+                "rate": 0.06,
+                "rarity": "legendary",
+                "id": "62d2f24175156700981995a2"
+            },
+            {
+                "type": "npc",
+                "item": "5be5f5a03ffcc7038857f105",
+                "npc": "62d2f03b751567007abb18cf",
+                "rate": 0.06,
+                "rarity": "legendary",
+                "id": "62d2f24175156700981995a3"
+            },
+            {
+                "type": "npc",
+                "item": "5be5f5a03ffcc7038857f105",
+                "npc": "62d2f031751567007abb1877",
+                "rate": 0.05,
+                "rarity": "legendary",
+                "id": "62d2f24175156700981995a4"
+            }
+        ]
+    }
+}

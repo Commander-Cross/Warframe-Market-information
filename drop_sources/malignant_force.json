@@ -1,1 +1,14 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "54a74454e779892d5e51558e", "npc": "62d2f002751567007abb16ff", "rate": 25.0, "rarity": "uncommon", "id": "62d2f2417515670098199475"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "54a74454e779892d5e51558e",
+                "npc": "62d2f002751567007abb16ff",
+                "rate": 25.0,
+                "rarity": "uncommon",
+                "id": "62d2f2417515670098199475"
+            }
+        ]
+    }
+}

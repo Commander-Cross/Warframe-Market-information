@@ -1,1 +1,54 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "59dfeb6c115f1d887cfd7abf", "npc": "62d2f045751567007abb1939", "rate": 11.06, "rarity": "uncommon", "id": "62d35258650ea601a7ad1cec"}, {"type": "mission", "item": "59dfeb6c115f1d887cfd7abf", "location": "62d2eb3d75156700663c8367", "mission": "62d2f098751567007abb1979", "rate": 8.84, "rarity": "rare", "rotation": "a", "stage": ["4"], "id": "633e2e91f570d1079c2e389b"}, {"type": "mission", "item": "59dfeb6c115f1d887cfd7abf", "location": "62d2eb3d75156700663c8367", "mission": "62d2f098751567007abb1979", "rate": 24.62, "rarity": "uncommon", "rotation": "a", "stage": ["final"], "id": "633e2e91f570d1079c2e389c"}, {"type": "mission", "item": "59dfeb6c115f1d887cfd7abf", "location": "62d2eb3d75156700663c8367", "mission": "62d2f098751567007abb1979", "rate": 9.04, "rarity": "rare", "rotation": "a", "stage": ["2", "3"], "id": "644b04eb7ec19000567fa5ea"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "59dfeb6c115f1d887cfd7abf",
+                "npc": "62d2f045751567007abb1939",
+                "rate": 11.06,
+                "rarity": "uncommon",
+                "id": "62d35258650ea601a7ad1cec"
+            },
+            {
+                "type": "mission",
+                "item": "59dfeb6c115f1d887cfd7abf",
+                "location": "62d2eb3d75156700663c8367",
+                "mission": "62d2f098751567007abb1979",
+                "rate": 8.84,
+                "rarity": "rare",
+                "rotation": "a",
+                "stage": [
+                    "4"
+                ],
+                "id": "633e2e91f570d1079c2e389b"
+            },
+            {
+                "type": "mission",
+                "item": "59dfeb6c115f1d887cfd7abf",
+                "location": "62d2eb3d75156700663c8367",
+                "mission": "62d2f098751567007abb1979",
+                "rate": 24.62,
+                "rarity": "uncommon",
+                "rotation": "a",
+                "stage": [
+                    "final"
+                ],
+                "id": "633e2e91f570d1079c2e389c"
+            },
+            {
+                "type": "mission",
+                "item": "59dfeb6c115f1d887cfd7abf",
+                "location": "62d2eb3d75156700663c8367",
+                "mission": "62d2f098751567007abb1979",
+                "rate": 9.04,
+                "rarity": "rare",
+                "rotation": "a",
+                "stage": [
+                    "2",
+                    "3"
+                ],
+                "id": "644b04eb7ec19000567fa5ea"
+            }
+        ]
+    }
+}

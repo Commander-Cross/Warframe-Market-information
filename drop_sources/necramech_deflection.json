@@ -1,1 +1,41 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5f52c692d5c36d0123a824a2", "mission": "62d2f0f3751567007abb1994", "rate": 4.55, "rarity": "rare", "rotation": "a", "id": "62d3525a650ea601a7ad2019"}, {"type": "mission", "item": "5f52c692d5c36d0123a824a2", "mission": "62d2f0f3751567007abb1994", "rate": 14.29, "rarity": "uncommon", "rotation": "c", "id": "62d3525a650ea601a7ad201a"}, {"type": "mission", "item": "5f52c692d5c36d0123a824a2", "mission": "62d2f0f3751567007abb1994", "rate": 6.52, "rarity": "rare", "rotation": "a", "id": "62d3525a650ea601a7ad201b"}, {"type": "npc", "item": "5f52c692d5c36d0123a824a2", "npc": "62d2f025751567007abb1818", "rate": 18.97, "rarity": "uncommon", "id": "62d3525a650ea601a7ad201c"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5f52c692d5c36d0123a824a2",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 4.55,
+                "rarity": "rare",
+                "rotation": "a",
+                "id": "62d3525a650ea601a7ad2019"
+            },
+            {
+                "type": "mission",
+                "item": "5f52c692d5c36d0123a824a2",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 14.29,
+                "rarity": "uncommon",
+                "rotation": "c",
+                "id": "62d3525a650ea601a7ad201a"
+            },
+            {
+                "type": "mission",
+                "item": "5f52c692d5c36d0123a824a2",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 6.52,
+                "rarity": "rare",
+                "rotation": "a",
+                "id": "62d3525a650ea601a7ad201b"
+            },
+            {
+                "type": "npc",
+                "item": "5f52c692d5c36d0123a824a2",
+                "npc": "62d2f025751567007abb1818",
+                "rate": 18.97,
+                "rarity": "uncommon",
+                "id": "62d3525a650ea601a7ad201c"
+            }
+        ]
+    }
+}

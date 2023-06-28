@@ -1,1 +1,78 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f00d751567007abb175c", "rate": 0.17, "rarity": "ultra_rare", "id": "62d2f2417515670098199557"}, {"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f002751567007abb1701", "rate": 0.1, "rarity": "legendary", "id": "62d2f2417515670098199559"}, {"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f01f751567007abb17eb", "rate": 0.17, "rarity": "ultra_rare", "id": "62d2f241751567009819955a"}, {"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f02a751567007abb1843", "rate": 3.0, "rarity": "uncommon", "id": "62d2f241751567009819955c"}, {"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f024751567007abb1810", "rate": 1.71, "rarity": "uncommon", "id": "62d2f241751567009819955e"}, {"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f034751567007abb1896", "rate": 5.0, "rarity": "common", "id": "62d2f241751567009819955f"}, {"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f00d751567007abb175a", "rate": 0.21, "rarity": "ultra_rare", "id": "633e3207f570d107d2a96a3b"}, {"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f039751567007abb18bb", "rate": 0.1, "rarity": "legendary", "id": "63f103ee07ebe90061f4bf79"}, {"type": "npc", "item": "5e839495267539077b0dd6d1", "npc": "62d2f02f751567007abb186e", "rate": 0.1, "rarity": "legendary", "id": "63f103ee07ebe90061f4bf7a"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f00d751567007abb175c",
+                "rate": 0.17,
+                "rarity": "ultra_rare",
+                "id": "62d2f2417515670098199557"
+            },
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f002751567007abb1701",
+                "rate": 0.1,
+                "rarity": "legendary",
+                "id": "62d2f2417515670098199559"
+            },
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f01f751567007abb17eb",
+                "rate": 0.17,
+                "rarity": "ultra_rare",
+                "id": "62d2f241751567009819955a"
+            },
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f02a751567007abb1843",
+                "rate": 3.0,
+                "rarity": "uncommon",
+                "id": "62d2f241751567009819955c"
+            },
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f024751567007abb1810",
+                "rate": 1.71,
+                "rarity": "uncommon",
+                "id": "62d2f241751567009819955e"
+            },
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f034751567007abb1896",
+                "rate": 5.0,
+                "rarity": "common",
+                "id": "62d2f241751567009819955f"
+            },
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f00d751567007abb175a",
+                "rate": 0.21,
+                "rarity": "ultra_rare",
+                "id": "633e3207f570d107d2a96a3b"
+            },
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f039751567007abb18bb",
+                "rate": 0.1,
+                "rarity": "legendary",
+                "id": "63f103ee07ebe90061f4bf79"
+            },
+            {
+                "type": "npc",
+                "item": "5e839495267539077b0dd6d1",
+                "npc": "62d2f02f751567007abb186e",
+                "rate": 0.1,
+                "rarity": "legendary",
+                "id": "63f103ee07ebe90061f4bf7a"
+            }
+        ]
+    }
+}

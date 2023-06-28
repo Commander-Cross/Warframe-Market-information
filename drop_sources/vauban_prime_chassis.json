@@ -1,1 +1,84 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "573b7fc20ec44a47787a690e", "relic": "6054dd715221e30057500f6b", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c75156700981988de"}, {"type": "relic", "item": "573b7fc20ec44a47787a690e", "relic": "6054dda05221e30057500f9b", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c75156700981988df"}, {"type": "relic", "item": "573b7fc20ec44a47787a690e", "relic": "6054ddcb5221e30057500fc5", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23c75156700981988e0"}, {"type": "relic", "item": "573b7fc20ec44a47787a690e", "relic": "6054dddb5221e30057500fd7", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c75156700981988e1"}, {"type": "relic", "item": "573b7fc20ec44a47787a690e", "relic": "6054de1c5221e30057501020", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c75156700981988e2"}, {"type": "relic", "item": "573b7fc20ec44a47787a690e", "relic": "639a8d9274b02f003889eb6f", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "639b786572394308849cce34"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "573b7fc20ec44a47787a690e",
+                "relic": "6054dd715221e30057500f6b",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c75156700981988de"
+            },
+            {
+                "type": "relic",
+                "item": "573b7fc20ec44a47787a690e",
+                "relic": "6054dda05221e30057500f9b",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c75156700981988df"
+            },
+            {
+                "type": "relic",
+                "item": "573b7fc20ec44a47787a690e",
+                "relic": "6054ddcb5221e30057500fc5",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23c75156700981988e0"
+            },
+            {
+                "type": "relic",
+                "item": "573b7fc20ec44a47787a690e",
+                "relic": "6054dddb5221e30057500fd7",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c75156700981988e1"
+            },
+            {
+                "type": "relic",
+                "item": "573b7fc20ec44a47787a690e",
+                "relic": "6054de1c5221e30057501020",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c75156700981988e2"
+            },
+            {
+                "type": "relic",
+                "item": "573b7fc20ec44a47787a690e",
+                "relic": "639a8d9274b02f003889eb6f",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "639b786572394308849cce34"
+            }
+        ]
+    }
+}

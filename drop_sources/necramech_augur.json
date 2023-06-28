@@ -1,1 +1,41 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5fde10c56db57b0185b39080", "mission": "62d2f0f3751567007abb1994", "rate": 4.55, "rarity": "rare", "rotation": "a", "id": "62d3525a650ea601a7ad2025"}, {"type": "mission", "item": "5fde10c56db57b0185b39080", "mission": "62d2f0f3751567007abb1994", "rate": 14.29, "rarity": "uncommon", "rotation": "c", "id": "62d3525a650ea601a7ad2026"}, {"type": "mission", "item": "5fde10c56db57b0185b39080", "mission": "62d2f0f3751567007abb1994", "rate": 6.52, "rarity": "rare", "rotation": "a", "id": "62d3525a650ea601a7ad2027"}, {"type": "npc", "item": "5fde10c56db57b0185b39080", "npc": "62d2f025751567007abb1818", "rate": 4.42, "rarity": "rare", "id": "62d3525a650ea601a7ad2028"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5fde10c56db57b0185b39080",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 4.55,
+                "rarity": "rare",
+                "rotation": "a",
+                "id": "62d3525a650ea601a7ad2025"
+            },
+            {
+                "type": "mission",
+                "item": "5fde10c56db57b0185b39080",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 14.29,
+                "rarity": "uncommon",
+                "rotation": "c",
+                "id": "62d3525a650ea601a7ad2026"
+            },
+            {
+                "type": "mission",
+                "item": "5fde10c56db57b0185b39080",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 6.52,
+                "rarity": "rare",
+                "rotation": "a",
+                "id": "62d3525a650ea601a7ad2027"
+            },
+            {
+                "type": "npc",
+                "item": "5fde10c56db57b0185b39080",
+                "npc": "62d2f025751567007abb1818",
+                "rate": 4.42,
+                "rarity": "rare",
+                "id": "62d3525a650ea601a7ad2028"
+            }
+        ]
+    }
+}

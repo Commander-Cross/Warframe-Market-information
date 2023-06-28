@@ -1,1 +1,70 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "5e839494267539077b0dd6b1", "npc": "62d2efff751567007abb16ec", "rate": 3.79, "rarity": "uncommon", "id": "62d3525f650ea601a7ad28af"}, {"type": "npc", "item": "5e839494267539077b0dd6b1", "npc": "62d2f016751567007abb17a9", "rate": 7.12, "rarity": "common", "id": "62d3525f650ea601a7ad28b0"}, {"type": "npc", "item": "5e839494267539077b0dd6b1", "npc": "62d2f02f751567007abb1869", "rate": 5.18, "rarity": "common", "id": "62d3525f650ea601a7ad28b2"}, {"type": "npc", "item": "5e839494267539077b0dd6b1", "npc": "62d2f00a751567007abb1742", "rate": 5.18, "rarity": "common", "id": "62d3525f650ea601a7ad28b4"}, {"type": "npc", "item": "5e839494267539077b0dd6b1", "npc": "62d2effd751567007abb16d8", "rate": 3.79, "rarity": "uncommon", "id": "62d3525f650ea601a7ad28b5"}, {"type": "npc", "item": "5e839494267539077b0dd6b1", "npc": "62d2f024751567007abb1810", "rate": 13.29, "rarity": "very_common", "id": "62d3525f650ea601a7ad28b6"}, {"type": "npc", "item": "5e839494267539077b0dd6b1", "npc": "62d2f034751567007abb1893", "rate": 3.79, "rarity": "uncommon", "id": "63f103ee07ebe90061f4bf2b"}, {"type": "npc", "item": "5e839494267539077b0dd6b1", "npc": "62d2f039751567007abb18bb", "rate": 3.79, "rarity": "uncommon", "id": "63f103ee07ebe90061f4bf2c"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "5e839494267539077b0dd6b1",
+                "npc": "62d2efff751567007abb16ec",
+                "rate": 3.79,
+                "rarity": "uncommon",
+                "id": "62d3525f650ea601a7ad28af"
+            },
+            {
+                "type": "npc",
+                "item": "5e839494267539077b0dd6b1",
+                "npc": "62d2f016751567007abb17a9",
+                "rate": 7.12,
+                "rarity": "common",
+                "id": "62d3525f650ea601a7ad28b0"
+            },
+            {
+                "type": "npc",
+                "item": "5e839494267539077b0dd6b1",
+                "npc": "62d2f02f751567007abb1869",
+                "rate": 5.18,
+                "rarity": "common",
+                "id": "62d3525f650ea601a7ad28b2"
+            },
+            {
+                "type": "npc",
+                "item": "5e839494267539077b0dd6b1",
+                "npc": "62d2f00a751567007abb1742",
+                "rate": 5.18,
+                "rarity": "common",
+                "id": "62d3525f650ea601a7ad28b4"
+            },
+            {
+                "type": "npc",
+                "item": "5e839494267539077b0dd6b1",
+                "npc": "62d2effd751567007abb16d8",
+                "rate": 3.79,
+                "rarity": "uncommon",
+                "id": "62d3525f650ea601a7ad28b5"
+            },
+            {
+                "type": "npc",
+                "item": "5e839494267539077b0dd6b1",
+                "npc": "62d2f024751567007abb1810",
+                "rate": 13.29,
+                "rarity": "very_common",
+                "id": "62d3525f650ea601a7ad28b6"
+            },
+            {
+                "type": "npc",
+                "item": "5e839494267539077b0dd6b1",
+                "npc": "62d2f034751567007abb1893",
+                "rate": 3.79,
+                "rarity": "uncommon",
+                "id": "63f103ee07ebe90061f4bf2b"
+            },
+            {
+                "type": "npc",
+                "item": "5e839494267539077b0dd6b1",
+                "npc": "62d2f039751567007abb18bb",
+                "rate": 3.79,
+                "rarity": "uncommon",
+                "id": "63f103ee07ebe90061f4bf2c"
+            }
+        ]
+    }
+}

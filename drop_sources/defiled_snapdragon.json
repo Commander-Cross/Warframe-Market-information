@@ -1,1 +1,110 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f008751567007abb172a", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad2436"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2eff7751567007abb16a0", "rate": 0.03, "rarity": "ultra_rare", "id": "62d3525c650ea601a7ad2437"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f011751567007abb177e", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad2439"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2effc751567007abb16cb", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad243a"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f031751567007abb1879", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad243d"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f030751567007abb1873", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad243f"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f01b751567007abb17d4", "rate": 0.03, "rarity": "ultra_rare", "id": "62d3525c650ea601a7ad2441"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f03d751567007abb18e4", "rate": 0.05, "rarity": "ultra_rare", "id": "62d3525c650ea601a7ad2442"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f01e751567007abb17e3", "rate": 0.02, "rarity": "legendary", "id": "633e3207f570d107d2a96a15"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f001751567007abb16f6", "rate": 0.03, "rarity": "ultra_rare", "id": "63f103ec07ebe90061f4bebb"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f023751567007abb180d", "rate": 0.02, "rarity": "legendary", "id": "63f103ec07ebe90061f4bebc"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f03a751567007abb18c8", "rate": 0.02, "rarity": "legendary", "id": "63f103ec07ebe90061f4bebd"}, {"type": "npc", "item": "5655c48eb66f832e0427152e", "npc": "62d2f03b751567007abb18cd", "rate": 0.02, "rarity": "legendary", "id": "63f103ec07ebe90061f4bebe"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f008751567007abb172a",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad2436"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2eff7751567007abb16a0",
+                "rate": 0.03,
+                "rarity": "ultra_rare",
+                "id": "62d3525c650ea601a7ad2437"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f011751567007abb177e",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad2439"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2effc751567007abb16cb",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad243a"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f031751567007abb1879",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad243d"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f030751567007abb1873",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad243f"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f01b751567007abb17d4",
+                "rate": 0.03,
+                "rarity": "ultra_rare",
+                "id": "62d3525c650ea601a7ad2441"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f03d751567007abb18e4",
+                "rate": 0.05,
+                "rarity": "ultra_rare",
+                "id": "62d3525c650ea601a7ad2442"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f01e751567007abb17e3",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "633e3207f570d107d2a96a15"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f001751567007abb16f6",
+                "rate": 0.03,
+                "rarity": "ultra_rare",
+                "id": "63f103ec07ebe90061f4bebb"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f023751567007abb180d",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "63f103ec07ebe90061f4bebc"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f03a751567007abb18c8",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "63f103ec07ebe90061f4bebd"
+            },
+            {
+                "type": "npc",
+                "item": "5655c48eb66f832e0427152e",
+                "npc": "62d2f03b751567007abb18cd",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "63f103ec07ebe90061f4bebe"
+            }
+        ]
+    }
+}

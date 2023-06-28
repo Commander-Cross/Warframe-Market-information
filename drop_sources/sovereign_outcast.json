@@ -1,1 +1,22 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "588247dcefa102dc532bd503", "npc": "62d2f00e751567007abb1764", "rate": 0.2, "rarity": "rare", "id": "62d3525d650ea601a7ad25ee"}, {"type": "npc", "item": "588247dcefa102dc532bd503", "npc": "62d2f045751567007abb1938", "rate": 0.2, "rarity": "rare", "id": "62d3525d650ea601a7ad25ef"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "588247dcefa102dc532bd503",
+                "npc": "62d2f00e751567007abb1764",
+                "rate": 0.2,
+                "rarity": "rare",
+                "id": "62d3525d650ea601a7ad25ee"
+            },
+            {
+                "type": "npc",
+                "item": "588247dcefa102dc532bd503",
+                "npc": "62d2f045751567007abb1938",
+                "rate": 0.2,
+                "rarity": "rare",
+                "id": "62d3525d650ea601a7ad25ef"
+            }
+        ]
+    }
+}

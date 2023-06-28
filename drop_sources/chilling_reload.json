@@ -1,1 +1,15 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5814b1f2ca550948410af0ae", "mission": "62d2f07e751567007abb1973", "rate": 22.11, "rarity": "uncommon", "rotation": "a", "id": "62d3525a650ea601a7ad2068"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5814b1f2ca550948410af0ae",
+                "mission": "62d2f07e751567007abb1973",
+                "rate": 22.11,
+                "rarity": "uncommon",
+                "rotation": "a",
+                "id": "62d3525a650ea601a7ad2068"
+            }
+        ]
+    }
+}

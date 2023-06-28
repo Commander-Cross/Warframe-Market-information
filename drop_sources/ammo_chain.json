@@ -1,1 +1,42 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5c1bda2414a8e4006b1dada4", "location": "62d2eb5c75156700663c83e6", "mission": "62d2f07a751567007abb1971", "rate": 17.14, "rarity": "uncommon", "stage": ["final"], "id": "62d35258650ea601a7ad1e0d"}, {"type": "npc", "item": "5c1bda2414a8e4006b1dada4", "npc": "62d2efff751567007abb16eb", "rate": 0.37, "rarity": "rare", "id": "62d35258650ea601a7ad1e0f"}, {"type": "npc", "item": "5c1bda2414a8e4006b1dada4", "npc": "62d2efff751567007abb16e7", "rate": 0.37, "rarity": "rare", "id": "62d35258650ea601a7ad1e10"}, {"type": "npc", "item": "5c1bda2414a8e4006b1dada4", "npc": "62d2effc751567007abb16ca", "rate": 0.37, "rarity": "rare", "id": "633e3205f570d107d2a96971"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5c1bda2414a8e4006b1dada4",
+                "location": "62d2eb5c75156700663c83e6",
+                "mission": "62d2f07a751567007abb1971",
+                "rate": 17.14,
+                "rarity": "uncommon",
+                "stage": [
+                    "final"
+                ],
+                "id": "62d35258650ea601a7ad1e0d"
+            },
+            {
+                "type": "npc",
+                "item": "5c1bda2414a8e4006b1dada4",
+                "npc": "62d2efff751567007abb16eb",
+                "rate": 0.37,
+                "rarity": "rare",
+                "id": "62d35258650ea601a7ad1e0f"
+            },
+            {
+                "type": "npc",
+                "item": "5c1bda2414a8e4006b1dada4",
+                "npc": "62d2efff751567007abb16e7",
+                "rate": 0.37,
+                "rarity": "rare",
+                "id": "62d35258650ea601a7ad1e10"
+            },
+            {
+                "type": "npc",
+                "item": "5c1bda2414a8e4006b1dada4",
+                "npc": "62d2effc751567007abb16ca",
+                "rate": 0.37,
+                "rarity": "rare",
+                "id": "633e3205f570d107d2a96971"
+            }
+        ]
+    }
+}

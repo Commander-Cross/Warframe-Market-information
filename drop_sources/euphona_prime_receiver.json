@@ -1,1 +1,32 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "58b57068eb26db5c31192111", "relic": "6054dd265221e30057500f2e", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23b75156700981985c4"}, {"type": "relic", "item": "58b57068eb26db5c31192111", "relic": "6054de105221e30057501012", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23b75156700981985c5"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c31192111",
+                "relic": "6054dd265221e30057500f2e",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23b75156700981985c4"
+            },
+            {
+                "type": "relic",
+                "item": "58b57068eb26db5c31192111",
+                "relic": "6054de105221e30057501012",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23b75156700981985c5"
+            }
+        ]
+    }
+}

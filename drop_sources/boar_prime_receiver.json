@@ -1,1 +1,45 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "54a73e65e779893a797fff2c", "relic": "6054dd125221e30057500f1c", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23a751567009819836d"}, {"type": "relic", "item": "54a73e65e779893a797fff2c", "relic": "6054dd445221e30057500f46", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23a751567009819836e"}, {"type": "relic", "item": "54a73e65e779893a797fff2c", "relic": "6054de4f5221e30057501058", "rates": {"intact": 25.33, "exceptional": 23.33, "flawless": 20, "radiant": 16.67}, "rarity": "common", "id": "62d2f23a751567009819836f"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff2c",
+                "relic": "6054dd125221e30057500f1c",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23a751567009819836d"
+            },
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff2c",
+                "relic": "6054dd445221e30057500f46",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23a751567009819836e"
+            },
+            {
+                "type": "relic",
+                "item": "54a73e65e779893a797fff2c",
+                "relic": "6054de4f5221e30057501058",
+                "rates": {
+                    "intact": 25.33,
+                    "exceptional": 23.33,
+                    "flawless": 20,
+                    "radiant": 16.67
+                },
+                "rarity": "common",
+                "id": "62d2f23a751567009819836f"
+            }
+        ]
+    }
+}

@@ -1,1 +1,19 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "5bebf1713ffcc704caf38cf7", "relic": "6054dd425221e30057500f45", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23c7515670098198784"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "5bebf1713ffcc704caf38cf7",
+                "relic": "6054dd425221e30057500f45",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23c7515670098198784"
+            }
+        ]
+    }
+}

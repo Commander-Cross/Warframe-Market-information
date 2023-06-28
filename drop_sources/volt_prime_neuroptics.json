@@ -1,1 +1,45 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "55158cd0e7798915e9d64c1e", "relic": "6054dd1c5221e30057500f24", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23b75156700981984ae"}, {"type": "relic", "item": "55158cd0e7798915e9d64c1e", "relic": "6054dd715221e30057500f6b", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "62d2f23b75156700981984af"}, {"type": "relic", "item": "55158cd0e7798915e9d64c1e", "relic": "6054dda75221e30057500fa2", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23b75156700981984b0"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "55158cd0e7798915e9d64c1e",
+                "relic": "6054dd1c5221e30057500f24",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23b75156700981984ae"
+            },
+            {
+                "type": "relic",
+                "item": "55158cd0e7798915e9d64c1e",
+                "relic": "6054dd715221e30057500f6b",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "62d2f23b75156700981984af"
+            },
+            {
+                "type": "relic",
+                "item": "55158cd0e7798915e9d64c1e",
+                "relic": "6054dda75221e30057500fa2",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23b75156700981984b0"
+            }
+        ]
+    }
+}

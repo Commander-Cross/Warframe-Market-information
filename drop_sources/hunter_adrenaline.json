@@ -1,1 +1,62 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5a0ef3fb10bc40007cce1c89", "location": "62d2eb3d75156700663c8367", "mission": "62d2f098751567007abb1978", "rate": 36.76, "rarity": "common", "rotation": "a", "stage": ["1"], "id": "62d35258650ea601a7ad1d9b"}, {"type": "mission", "item": "5a0ef3fb10bc40007cce1c89", "location": "62d2eb3d75156700663c8367", "mission": "62d2f098751567007abb1978", "rate": 8.93, "rarity": "rare", "rotation": "a", "stage": ["4"], "id": "62d35258650ea601a7ad1d9d"}, {"type": "npc", "item": "5a0ef3fb10bc40007cce1c89", "npc": "62d2f014751567007abb1790", "rate": 28.95, "rarity": "uncommon", "id": "62d35258650ea601a7ad1d9e"}, {"type": "npc", "item": "5a0ef3fb10bc40007cce1c89", "npc": "62d2f033751567007abb1886", "rate": 37.94, "rarity": "very_common", "id": "62d35258650ea601a7ad1d9f"}, {"type": "mission", "item": "5a0ef3fb10bc40007cce1c89", "location": "62d2eb3d75156700663c8367", "mission": "62d2f098751567007abb1978", "rate": 12.14, "rarity": "uncommon", "rotation": "a", "stage": ["2", "3"], "id": "644b04eb7ec19000567fa603"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5a0ef3fb10bc40007cce1c89",
+                "location": "62d2eb3d75156700663c8367",
+                "mission": "62d2f098751567007abb1978",
+                "rate": 36.76,
+                "rarity": "common",
+                "rotation": "a",
+                "stage": [
+                    "1"
+                ],
+                "id": "62d35258650ea601a7ad1d9b"
+            },
+            {
+                "type": "mission",
+                "item": "5a0ef3fb10bc40007cce1c89",
+                "location": "62d2eb3d75156700663c8367",
+                "mission": "62d2f098751567007abb1978",
+                "rate": 8.93,
+                "rarity": "rare",
+                "rotation": "a",
+                "stage": [
+                    "4"
+                ],
+                "id": "62d35258650ea601a7ad1d9d"
+            },
+            {
+                "type": "npc",
+                "item": "5a0ef3fb10bc40007cce1c89",
+                "npc": "62d2f014751567007abb1790",
+                "rate": 28.95,
+                "rarity": "uncommon",
+                "id": "62d35258650ea601a7ad1d9e"
+            },
+            {
+                "type": "npc",
+                "item": "5a0ef3fb10bc40007cce1c89",
+                "npc": "62d2f033751567007abb1886",
+                "rate": 37.94,
+                "rarity": "very_common",
+                "id": "62d35258650ea601a7ad1d9f"
+            },
+            {
+                "type": "mission",
+                "item": "5a0ef3fb10bc40007cce1c89",
+                "location": "62d2eb3d75156700663c8367",
+                "mission": "62d2f098751567007abb1978",
+                "rate": 12.14,
+                "rarity": "uncommon",
+                "rotation": "a",
+                "stage": [
+                    "2",
+                    "3"
+                ],
+                "id": "644b04eb7ec19000567fa603"
+            }
+        ]
+    }
+}

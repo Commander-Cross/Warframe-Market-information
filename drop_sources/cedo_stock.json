@@ -1,1 +1,33 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5fe0ea836db57b0225115015", "mission": "62d2f0f3751567007abb1994", "rate": 5.56, "rarity": "rare", "rotation": "b", "id": "62d3525a650ea601a7ad202f"}, {"type": "mission", "item": "5fe0ea836db57b0225115015", "mission": "62d2f0f3751567007abb1994", "rate": 11.11, "rarity": "uncommon", "rotation": "b", "id": "62d3525a650ea601a7ad2030"}, {"type": "mission", "item": "5fe0ea836db57b0225115015", "mission": "62d2f0f3751567007abb1994", "rate": 5.77, "rarity": "rare", "rotation": "b", "id": "62d3525a650ea601a7ad2031"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5fe0ea836db57b0225115015",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 5.56,
+                "rarity": "rare",
+                "rotation": "b",
+                "id": "62d3525a650ea601a7ad202f"
+            },
+            {
+                "type": "mission",
+                "item": "5fe0ea836db57b0225115015",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 11.11,
+                "rarity": "uncommon",
+                "rotation": "b",
+                "id": "62d3525a650ea601a7ad2030"
+            },
+            {
+                "type": "mission",
+                "item": "5fe0ea836db57b0225115015",
+                "mission": "62d2f0f3751567007abb1994",
+                "rate": 5.77,
+                "rarity": "rare",
+                "rotation": "b",
+                "id": "62d3525a650ea601a7ad2031"
+            }
+        ]
+    }
+}

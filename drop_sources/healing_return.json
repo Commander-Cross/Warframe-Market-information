@@ -1,1 +1,42 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "58446fb92c2ada005dc7d047", "npc": "62d2f029751567007abb1839", "rate": 0.03, "rarity": "legendary", "id": "62d3525d650ea601a7ad268b"}, {"type": "npc", "item": "58446fb92c2ada005dc7d047", "npc": "62d2f03f751567007abb1901", "rate": 0.03, "rarity": "ultra_rare", "id": "63f103ed07ebe90061f4bf15"}, {"type": "mission", "item": "58446fb92c2ada005dc7d047", "location": "644b01ab7ec190004dbb80c1", "mission": "644b00457ec1900044b97743", "rate": 1.49, "rarity": "ultra_rare", "modifier": "normal", "id": "644b04eb7ec19000567fa5bd"}, {"type": "mission", "item": "58446fb92c2ada005dc7d047", "location": "644b01ab7ec190004dbb80c1", "mission": "644b00457ec1900044b97742", "rate": 1.03, "rarity": "ultra_rare", "modifier": "normal", "id": "644b04eb7ec19000567fa5be"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "58446fb92c2ada005dc7d047",
+                "npc": "62d2f029751567007abb1839",
+                "rate": 0.03,
+                "rarity": "legendary",
+                "id": "62d3525d650ea601a7ad268b"
+            },
+            {
+                "type": "npc",
+                "item": "58446fb92c2ada005dc7d047",
+                "npc": "62d2f03f751567007abb1901",
+                "rate": 0.03,
+                "rarity": "ultra_rare",
+                "id": "63f103ed07ebe90061f4bf15"
+            },
+            {
+                "type": "mission",
+                "item": "58446fb92c2ada005dc7d047",
+                "location": "644b01ab7ec190004dbb80c1",
+                "mission": "644b00457ec1900044b97743",
+                "rate": 1.49,
+                "rarity": "ultra_rare",
+                "modifier": "normal",
+                "id": "644b04eb7ec19000567fa5bd"
+            },
+            {
+                "type": "mission",
+                "item": "58446fb92c2ada005dc7d047",
+                "location": "644b01ab7ec190004dbb80c1",
+                "mission": "644b00457ec1900044b97742",
+                "rate": 1.03,
+                "rarity": "ultra_rare",
+                "modifier": "normal",
+                "id": "644b04eb7ec19000567fa5be"
+            }
+        ]
+    }
+}

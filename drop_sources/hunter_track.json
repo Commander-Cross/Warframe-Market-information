@@ -1,1 +1,48 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5a0ef3fc10bc40007cce1c8c", "location": "62d2eb3d75156700663c8367", "mission": "62d2f098751567007abb1978", "rate": 7.14, "rarity": "rare", "rotation": "a", "stage": ["4"], "id": "62d35258650ea601a7ad1da5"}, {"type": "mission", "item": "5a0ef3fc10bc40007cce1c8c", "location": "62d2eb3d75156700663c8367", "mission": "62d2f098751567007abb1978", "rate": 9.43, "rarity": "rare", "rotation": "a", "stage": ["final"], "id": "62d35258650ea601a7ad1da6"}, {"type": "npc", "item": "5a0ef3fc10bc40007cce1c8c", "npc": "62d2f014751567007abb1790", "rate": 10.53, "rarity": "uncommon", "id": "62d35258650ea601a7ad1da7"}, {"type": "npc", "item": "5a0ef3fc10bc40007cce1c8c", "npc": "62d2f033751567007abb1886", "rate": 0.51, "rarity": "ultra_rare", "id": "62d35258650ea601a7ad1da8"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5a0ef3fc10bc40007cce1c8c",
+                "location": "62d2eb3d75156700663c8367",
+                "mission": "62d2f098751567007abb1978",
+                "rate": 7.14,
+                "rarity": "rare",
+                "rotation": "a",
+                "stage": [
+                    "4"
+                ],
+                "id": "62d35258650ea601a7ad1da5"
+            },
+            {
+                "type": "mission",
+                "item": "5a0ef3fc10bc40007cce1c8c",
+                "location": "62d2eb3d75156700663c8367",
+                "mission": "62d2f098751567007abb1978",
+                "rate": 9.43,
+                "rarity": "rare",
+                "rotation": "a",
+                "stage": [
+                    "final"
+                ],
+                "id": "62d35258650ea601a7ad1da6"
+            },
+            {
+                "type": "npc",
+                "item": "5a0ef3fc10bc40007cce1c8c",
+                "npc": "62d2f014751567007abb1790",
+                "rate": 10.53,
+                "rarity": "uncommon",
+                "id": "62d35258650ea601a7ad1da7"
+            },
+            {
+                "type": "npc",
+                "item": "5a0ef3fc10bc40007cce1c8c",
+                "npc": "62d2f033751567007abb1886",
+                "rate": 0.51,
+                "rarity": "ultra_rare",
+                "id": "62d35258650ea601a7ad1da8"
+            }
+        ]
+    }
+}

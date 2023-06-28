@@ -1,1 +1,45 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "559daaefe779897b5a2d3551", "relic": "6054de025221e30057501004", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23d7515670098198acf"}, {"type": "relic", "item": "559daaefe779897b5a2d3551", "relic": "6054de145221e30057501017", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23d7515670098198ad0"}, {"type": "relic", "item": "559daaefe779897b5a2d3551", "relic": "644b00227ec1900044b97725", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "644b04ec7ec19000567fa662"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "559daaefe779897b5a2d3551",
+                "relic": "6054de025221e30057501004",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23d7515670098198acf"
+            },
+            {
+                "type": "relic",
+                "item": "559daaefe779897b5a2d3551",
+                "relic": "6054de145221e30057501017",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23d7515670098198ad0"
+            },
+            {
+                "type": "relic",
+                "item": "559daaefe779897b5a2d3551",
+                "relic": "644b00227ec1900044b97725",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "644b04ec7ec19000567fa662"
+            }
+        ]
+    }
+}

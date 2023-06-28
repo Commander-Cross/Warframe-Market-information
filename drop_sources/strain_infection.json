@@ -1,1 +1,42 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5c1bda0114a8e4006b1dad58", "location": "62d2eb5c75156700663c83e6", "mission": "62d2f099751567007abb1980", "rate": 1.25, "rarity": "ultra_rare", "stage": ["final"], "id": "62d35258650ea601a7ad1e09"}, {"type": "npc", "item": "5c1bda0114a8e4006b1dad58", "npc": "62d2f035751567007abb189e", "rate": 1.25, "rarity": "uncommon", "id": "62d35258650ea601a7ad1e0a"}, {"type": "npc", "item": "5c1bda0114a8e4006b1dad58", "npc": "62d2f01d751567007abb17df", "rate": 1.25, "rarity": "uncommon", "id": "62d35258650ea601a7ad1e0b"}, {"type": "npc", "item": "5c1bda0114a8e4006b1dad58", "npc": "62d2f042751567007abb191b", "rate": 1.25, "rarity": "uncommon", "id": "62d35258650ea601a7ad1e0c"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5c1bda0114a8e4006b1dad58",
+                "location": "62d2eb5c75156700663c83e6",
+                "mission": "62d2f099751567007abb1980",
+                "rate": 1.25,
+                "rarity": "ultra_rare",
+                "stage": [
+                    "final"
+                ],
+                "id": "62d35258650ea601a7ad1e09"
+            },
+            {
+                "type": "npc",
+                "item": "5c1bda0114a8e4006b1dad58",
+                "npc": "62d2f035751567007abb189e",
+                "rate": 1.25,
+                "rarity": "uncommon",
+                "id": "62d35258650ea601a7ad1e0a"
+            },
+            {
+                "type": "npc",
+                "item": "5c1bda0114a8e4006b1dad58",
+                "npc": "62d2f01d751567007abb17df",
+                "rate": 1.25,
+                "rarity": "uncommon",
+                "id": "62d35258650ea601a7ad1e0b"
+            },
+            {
+                "type": "npc",
+                "item": "5c1bda0114a8e4006b1dad58",
+                "npc": "62d2f042751567007abb191b",
+                "rate": 1.25,
+                "rarity": "uncommon",
+                "id": "62d35258650ea601a7ad1e0c"
+            }
+        ]
+    }
+}

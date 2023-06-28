@@ -1,1 +1,16 @@
-{"payload": {"dropsources": [{"type": "mission", "item": "5dbe9b0e7ea27b0ffe3ca276", "location": "62d2eb4a75156700663c839e", "mission": "62d2f0f8751567007abb19a6", "rate": 10.0, "rarity": "uncommon", "rotation": "b", "id": "62d35257650ea601a7ad1bcb"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "mission",
+                "item": "5dbe9b0e7ea27b0ffe3ca276",
+                "location": "62d2eb4a75156700663c839e",
+                "mission": "62d2f0f8751567007abb19a6",
+                "rate": 10.0,
+                "rarity": "uncommon",
+                "rotation": "b",
+                "id": "62d35257650ea601a7ad1bcb"
+            }
+        ]
+    }
+}

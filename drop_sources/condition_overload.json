@@ -1,1 +1,122 @@
-{"payload": {"dropsources": [{"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f008751567007abb172a", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad2425"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f02d751567007abb185c", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad2426"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f03a751567007abb18cc", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad2427"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f011751567007abb177e", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad2428"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2effc751567007abb16cb", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad2429"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f031751567007abb1879", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad242c"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f030751567007abb1873", "rate": 0.02, "rarity": "legendary", "id": "62d3525c650ea601a7ad242e"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f03d751567007abb18e4", "rate": 0.05, "rarity": "ultra_rare", "id": "62d3525c650ea601a7ad2430"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f01e751567007abb17e3", "rate": 0.02, "rarity": "legendary", "id": "633e3207f570d107d2a96a11"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f023751567007abb180d", "rate": 0.02, "rarity": "legendary", "id": "63f103ec07ebe90061f4beb7"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f03a751567007abb18c8", "rate": 0.02, "rarity": "legendary", "id": "63f103ec07ebe90061f4beb8"}, {"type": "npc", "item": "58446f192c2ada003b4d4ffc", "npc": "62d2f03b751567007abb18cd", "rate": 0.02, "rarity": "legendary", "id": "63f103ec07ebe90061f4beb9"}, {"type": "mission", "item": "58446f192c2ada003b4d4ffc", "location": "644b01ab7ec190004dbb80c1", "mission": "644b00457ec1900044b97743", "rate": 1.49, "rarity": "ultra_rare", "modifier": "normal", "id": "644b04eb7ec19000567fa5b7"}, {"type": "mission", "item": "58446f192c2ada003b4d4ffc", "location": "644b01ab7ec190004dbb80c1", "mission": "644b00457ec1900044b97742", "rate": 1.03, "rarity": "ultra_rare", "modifier": "normal", "id": "644b04eb7ec19000567fa5b8"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f008751567007abb172a",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad2425"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f02d751567007abb185c",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad2426"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f03a751567007abb18cc",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad2427"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f011751567007abb177e",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad2428"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2effc751567007abb16cb",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad2429"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f031751567007abb1879",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad242c"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f030751567007abb1873",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "62d3525c650ea601a7ad242e"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f03d751567007abb18e4",
+                "rate": 0.05,
+                "rarity": "ultra_rare",
+                "id": "62d3525c650ea601a7ad2430"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f01e751567007abb17e3",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "633e3207f570d107d2a96a11"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f023751567007abb180d",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "63f103ec07ebe90061f4beb7"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f03a751567007abb18c8",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "63f103ec07ebe90061f4beb8"
+            },
+            {
+                "type": "npc",
+                "item": "58446f192c2ada003b4d4ffc",
+                "npc": "62d2f03b751567007abb18cd",
+                "rate": 0.02,
+                "rarity": "legendary",
+                "id": "63f103ec07ebe90061f4beb9"
+            },
+            {
+                "type": "mission",
+                "item": "58446f192c2ada003b4d4ffc",
+                "location": "644b01ab7ec190004dbb80c1",
+                "mission": "644b00457ec1900044b97743",
+                "rate": 1.49,
+                "rarity": "ultra_rare",
+                "modifier": "normal",
+                "id": "644b04eb7ec19000567fa5b7"
+            },
+            {
+                "type": "mission",
+                "item": "58446f192c2ada003b4d4ffc",
+                "location": "644b01ab7ec190004dbb80c1",
+                "mission": "644b00457ec1900044b97742",
+                "rate": 1.03,
+                "rarity": "ultra_rare",
+                "modifier": "normal",
+                "id": "644b04eb7ec19000567fa5b8"
+            }
+        ]
+    }
+}

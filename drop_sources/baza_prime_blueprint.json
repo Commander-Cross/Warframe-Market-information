@@ -1,1 +1,84 @@
-{"payload": {"dropsources": [{"type": "relic", "item": "5df955121456970150510f21", "relic": "6054dd575221e30057500f55", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c7515670098198847"}, {"type": "relic", "item": "5df955121456970150510f21", "relic": "6054ddfa5221e30057500ffa", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c7515670098198848"}, {"type": "relic", "item": "5df955121456970150510f21", "relic": "6054de2a5221e3005750102f", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c7515670098198849"}, {"type": "relic", "item": "5df955121456970150510f21", "relic": "6054de305221e30057501038", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c751567009819884a"}, {"type": "relic", "item": "5df955121456970150510f21", "relic": "6139101830dd5b004b7f9094", "rates": {"intact": 2, "exceptional": 4, "flawless": 6, "radiant": 10}, "rarity": "rare", "id": "62d2f23c751567009819884b"}, {"type": "relic", "item": "5df955121456970150510f21", "relic": "6364d904f6d2030069a9f91f", "rates": {"intact": 11, "exceptional": 13, "flawless": 17, "radiant": 20}, "rarity": "uncommon", "id": "6364db34f6d203009636e009"}]}}
+{
+    "payload": {
+        "dropsources": [
+            {
+                "type": "relic",
+                "item": "5df955121456970150510f21",
+                "relic": "6054dd575221e30057500f55",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c7515670098198847"
+            },
+            {
+                "type": "relic",
+                "item": "5df955121456970150510f21",
+                "relic": "6054ddfa5221e30057500ffa",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c7515670098198848"
+            },
+            {
+                "type": "relic",
+                "item": "5df955121456970150510f21",
+                "relic": "6054de2a5221e3005750102f",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c7515670098198849"
+            },
+            {
+                "type": "relic",
+                "item": "5df955121456970150510f21",
+                "relic": "6054de305221e30057501038",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c751567009819884a"
+            },
+            {
+                "type": "relic",
+                "item": "5df955121456970150510f21",
+                "relic": "6139101830dd5b004b7f9094",
+                "rates": {
+                    "intact": 2,
+                    "exceptional": 4,
+                    "flawless": 6,
+                    "radiant": 10
+                },
+                "rarity": "rare",
+                "id": "62d2f23c751567009819884b"
+            },
+            {
+                "type": "relic",
+                "item": "5df955121456970150510f21",
+                "relic": "6364d904f6d2030069a9f91f",
+                "rates": {
+                    "intact": 11,
+                    "exceptional": 13,
+                    "flawless": 17,
+                    "radiant": 20
+                },
+                "rarity": "uncommon",
+                "id": "6364db34f6d203009636e009"
+            }
+        ]
+    }
+}
