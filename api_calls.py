@@ -52,20 +52,6 @@ def load_missions():
     return misisons
 
 
-######### Gets all the drop sources of a given item from the web
-def get_drop_sources_from_web(item_url):
-    sources = requests.get("https://api.warframe.market/v1/items/mirage_prime_systems/dropsources")
-    if(missions.status_code == 200):
-        with open("./game_info/missions.json", 'w') as output:
-            json.dump(missions.json(), output)
-
-#later use
-def load_drop_source():
-    with open("./game_info/missions.json", 'r') as missions_file:
-        misisons = json.load(missions_file)
-        
-    return misisons
-
 
 #locations are typically named nodes
 def get_all_locations_from_web():
@@ -103,7 +89,11 @@ def update_information():
     time.sleep(delay)
     get_all_missions_from_web()
     time.sleep(delay)
-    get_al_drop_sources_from_web()
+    items = load_items()
+    item_urls = url_names(items)
+    for item in item_urls:
+        get_drop_sources_from_web(item)
+        time.sleep(delay)
 
 
 
@@ -144,5 +134,20 @@ def find_id(dictionary, target_id):
                 return result
     return None
 
+
+######### Gets all the drop sources of a given item from the web
+def get_drop_sources_from_web(item_url):
+    sources = requests.get(f"https://api.warframe.market/v1/items/{item_url}/dropsources")
+    if(sources.status_code == 200):
+        with open(f"./drop_sources/{item_url}.json", 'w') as output:
+            json.dump(sources.json(), output)
+            time.sleep(delay)
+
+#later use
+def load_drop_source(item_url):
+    with open(f"./drop_sources/{item_url}.json", 'r') as drop_sources:
+        sources = json.load(drop_sources)
+        
+    return sources
 
 
