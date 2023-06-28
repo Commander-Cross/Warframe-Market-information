@@ -12,11 +12,11 @@ def jprint(obj):
 def get_all_items_from_web():
     items = requests.get("https://api.warframe.market/v1/items")
     if(items.status_code == 200):
-        with open("./sources/items.json", 'w') as output:
+        with open("./game_info/items.json", 'w') as output:
             json.dump(items.json(), output)
 
 def load_items():
-    with open("./sources/items.json", 'r') as item_file:
+    with open("./game_info/items.json", 'r') as item_file:
         items = json.load(item_file)
         
     return items
@@ -28,11 +28,11 @@ def load_items():
 def get_all_npcs_from_web():
     npcs = requests.get("https://api.warframe.market/v1/npc")
     if(npcs.status_code == 200):
-        with open("./sources/npcs.json", 'w') as output:
+        with open("./game_info/npcs.json", 'w') as output:
             json.dump(npcs.json(), output)
 
 def load_npcs():
-    with open("./sources/npcs.json", 'r') as npc_file:
+    with open("./game_info/npcs.json", 'r') as npc_file:
         npcs = json.load(npc_file)
         
     return npcs
@@ -42,11 +42,26 @@ def load_npcs():
 def get_all_missions_from_web():
     missions = requests.get("https://api.warframe.market/v1/missions")
     if(missions.status_code == 200):
-        with open("./sources/missions.json", 'w') as output:
+        with open("./game_info/missions.json", 'w') as output:
             json.dump(missions.json(), output)
 
 def load_missions():
-    with open("./sources/missions.json", 'r') as missions_file:
+    with open("./game_info/missions.json", 'r') as missions_file:
+        misisons = json.load(missions_file)
+        
+    return misisons
+
+
+######### Gets all the drop sources of a given item from the web
+def get_drop_sources_from_web(item_url):
+    sources = requests.get("https://api.warframe.market/v1/items/mirage_prime_systems/dropsources")
+    if(missions.status_code == 200):
+        with open("./game_info/missions.json", 'w') as output:
+            json.dump(missions.json(), output)
+
+#later use
+def load_drop_source():
+    with open("./game_info/missions.json", 'r') as missions_file:
         misisons = json.load(missions_file)
         
     return misisons
@@ -56,11 +71,11 @@ def load_missions():
 def get_all_locations_from_web():
     locations = requests.get("https://api.warframe.market/v1/locations")
     if(locations.status_code == 200):
-        with open("./sources/locations.json", 'w') as output:
+        with open("./game_info/locations.json", 'w') as output:
             json.dump(locations.json(), output)
 
 def load_locations():
-    with open("./sources/locations.json", 'r') as location_file:
+    with open("./game_info/locations.json", 'r') as location_file:
         locations = json.load(location_file)
         
     return locations
@@ -87,6 +102,8 @@ def update_information():
     get_all_locations_from_web()
     time.sleep(delay)
     get_all_missions_from_web()
+    time.sleep(delay)
+    get_al_drop_sources_from_web()
 
 
 
