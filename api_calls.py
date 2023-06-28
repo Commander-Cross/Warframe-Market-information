@@ -88,6 +88,9 @@ def update_information():
     time.sleep(delay)
     get_all_missions_from_web()
 
+
+
+############ gets all item urls from a nested dictionary of all items#######################
 def url_names(item_list):
     urls = []
     for url_name in item_list['payload']['items']:
@@ -96,11 +99,33 @@ def url_names(item_list):
 
 
 
-# item_list = load_items()
-# npc_list = load_npcs()
-# mission_list = load_missions()
-# location_list = load_locations()
 
+
+#################### Gets all orders of an item and saves it to the folder ##########################
+def get_order_info(item_url):
+    save_loc = f"./order_info/{item_url}.json"
+    orders = requests.get(f"https://api.warframe.market/v1/items/{item_url}/orders")
+    if(orders.status_code == 200):
+        with open(save_loc, "w") as sav_file:
+            json.dump(orders.json(), sav_file)
+            time.sleep(delay)
+
+
+
+def load_orders():
+    pass
+
+
+################################# seems useful for later ###############################################
+def find_id(dictionary, target_id):
+    for key, value in dictionary.items():
+        if key == 'id' and value == target_id:
+            return dictionary
+        elif isinstance(value, dict):
+            result = find_id(value, target_id)
+            if result is not None:
+                return result
+    return None
 
 
 
